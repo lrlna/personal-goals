@@ -17,5 +17,7 @@
   - [ ] CLI module to hook up to twillio 
   - [ ] CLI module to hook up with spotify to make me look productive when I am searching for music
   - [ ] Work on [loudplaces](https://github.com/soundboards/loudplaces)
+  - [ ] Play around with making an API(maybe with Ruby?)
+  - [ ] Play around with making a JS library
 
 #### Course Work -- [CS50](https://courses.edx.org/courses/HarvardX/CS50x3/2015/info)
