@@ -10,5 +10,6 @@ This is also inspired by Una's (<3) [personal goals repo](https://github.com/una
 - [ ] Read _JavaScript the Good Parts_
 - [ ] Work on [loudplaces](https://github.com/soundboards/loudplaces)
 - [ ] Work on twillio cli project
+- [ ] Fix [dotfiles](https://github.com/lrlna/dotfiles/tree/463cc9f1723be4d161fb639284b50769e648092a)  
 
 
