@@ -5,7 +5,7 @@ This repo is to help organize projects and learning objectives I plan to work on
 This is also inspired by [Una's <3](https://twitter.com/Una) [personal goals repo](https://github.com/una/personal-goals)
 
 ##### Sep 14 - Sep 20:
-- [ ] Write a [lightbox-task](https://github.com/lrlna/lightbox-task)
+- [x] Write a [lightbox-task](https://github.com/lrlna/lightbox-task)
 - [ ] Chapter 3: _JavaScript the Good Parts_
 
 ##### Rolled over tasks 
@@ -18,5 +18,5 @@ This is also inspired by [Una's <3](https://twitter.com/Una) [personal goals rep
 - [ ] Work on twillio cli project
 - [ ] Fix [dotfiles](https://github.com/lrlna/dotfiles/tree/463cc9f1723be4d161fb639284b50769e648092a)  
 - [ ] Get a job :ok_hand:
-- [ ] Proposal for [Empire Node](http://2015.empirenode.org/)
+- [x] Proposal for [Empire Node](http://2015.empirenode.org/)
 
