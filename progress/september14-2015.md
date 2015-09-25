@@ -1,0 +1,4 @@
+- [x] Write a [lightbox-task](https://github.com/lrlna/lightbox-task)
+- [ ] Chapter 3: _JavaScript the Good Parts_
+- [x] Work on twillio cli project
+- [x] Proposal for [Empire Node](http://2015.empirenode.org/)

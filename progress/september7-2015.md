@@ -1,0 +1,2 @@
+- [ ] Week 2 of [CS50](https://courses.edx.org/courses/HarvardX/CS50x3/2015/info) including assignments
+- [ ] Chapter 2: _JavaScript the Good Parts_ 

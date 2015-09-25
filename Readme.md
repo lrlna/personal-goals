@@ -7,6 +7,9 @@ This is also inspired by [Una's <3](https://twitter.com/Una) [personal goals rep
 ##### Sep 21 - Sep 27:
 - [ ] Prepare for LLC [Python Workshop](https://github.com/ladieslearningcode/llc-intro-to-python)
 - [ ] Chapter 4: _JavaScript the Good Parts_
+- [ ] Submit to [last call] (https://docs.google.com/forms/d/1tN_QWHAUA55_qD53tDw28jgNiyss6k_3Bc9ekaoMwbY/viewform)
+- [x] Submit to [node interactive](http://events.linuxfoundation.org/events/node-interactive)
+- [ ] Submit to [signal conf](https://www.twilio.com/signal/call-for-presenters)
 - [ ] Catch up on rolled over tasks :clap:
 
 ##### Rolled over tasks 
