@@ -11,6 +11,7 @@ This is also inspired by [Una's <3](https://twitter.com/Una) [personal goals rep
 - [x] Submit to [node interactive](http://events.linuxfoundation.org/events/node-interactive)
 - [ ] Submit to [signal conf](https://www.twilio.com/signal/call-for-presenters)
 - [ ] Catch up on rolled over tasks :clap:
+- [ ] Submit Week 0 assignment for [CS50](https://courses.edx.org/courses/HarvardX/CS50x3/2015/info)
 
 ##### Rolled over tasks 
 
