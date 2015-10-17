@@ -1,0 +1,7 @@
+- [x] Prepare for LLC [Python Workshop](https://github.com/ladieslearningcode/llc-intro-to-python)
+- [ ] Chapter 4: _JavaScript the Good Parts_
+- [x] Submit to [last call] (https://docs.google.com/forms/d/1tN_QWHAUA55_qD53tDw28jgNiyss6k_3Bc9ekaoMwbY/viewform)
+- [x] Submit to [node interactive](http://events.linuxfoundation.org/events/node-interactive)
+- [ ] Submit to [signal conf](https://www.twilio.com/signal/call-for-presenters)
+- [ ] Catch up on rolled over tasks :clap:
+- [ ] Submit Week 0 assignment for [CS50](https://courses.edx.org/courses/HarvardX/CS50x3/2015/info)

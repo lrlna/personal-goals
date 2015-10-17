@@ -4,17 +4,17 @@ This repo is to help organize projects and learning objectives I plan to work on
 
 This is also inspired by [Una's <3](https://twitter.com/Una) [personal goals repo](https://github.com/una/personal-goals)
 
-##### Sep 21 - Sep 27:
-- [ ] Prepare for LLC [Python Workshop](https://github.com/ladieslearningcode/llc-intro-to-python)
-- [ ] Chapter 4: _JavaScript the Good Parts_
-- [ ] Submit to [last call] (https://docs.google.com/forms/d/1tN_QWHAUA55_qD53tDw28jgNiyss6k_3Bc9ekaoMwbY/viewform)
-- [x] Submit to [node interactive](http://events.linuxfoundation.org/events/node-interactive)
-- [ ] Submit to [signal conf](https://www.twilio.com/signal/call-for-presenters)
+##### Oct 12 - Oct 18:
 - [ ] Catch up on rolled over tasks :clap:
+- [ ] Cellular [Automaton](https://github.com/lrlna/cellular-automaton)
+- [ ] Apply to data visualization [workshop](http://data4chan.ge/#3)
+- [ ] Mitchell's [Complexity](http://www.amazon.ca/Complexity-Guided-Tour-Melanie-Mitchell/dp/0199798109)
+
+##### Rolled over goals 
+
+- [ ] Chapter 4: _JavaScript the Good Parts_
 - [ ] Submit Week 0 assignment for [CS50](https://courses.edx.org/courses/HarvardX/CS50x3/2015/info)
-
-##### Rolled over tasks 
-
+- [ ] Submit to [signal conf](https://www.twilio.com/signal/call-for-presenters)
 - [ ] Chapter 3: _JavaScript the Good Parts_
 - [ ] Week 2 of [CS50](https://courses.edx.org/courses/HarvardX/CS50x3/2015/info) including assignments
 - [ ] Chapter 2: _JavaScript the Good Parts_ 
