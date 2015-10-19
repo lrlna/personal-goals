@@ -6,9 +6,9 @@ This is also inspired by [Una's <3](https://twitter.com/Una) [personal goals rep
 
 ##### Oct 12 - Oct 18:
 - [ ] Catch up on rolled over tasks :clap:
-- [ ] Cellular [Automaton](https://github.com/lrlna/cellular-automaton)
-- [ ] Apply to data visualization [workshop](http://data4chan.ge/#3)
-- [ ] Mitchell's [Complexity](http://www.amazon.ca/Complexity-Guided-Tour-Melanie-Mitchell/dp/0199798109)
+- [x] Cellular [Automaton](https://github.com/lrlna/cellular-automaton)
+- [x] Apply to data visualization [workshop](http://data4chan.ge/#3)
+- [x] Mitchell's [Complexity](http://www.amazon.ca/Complexity-Guided-Tour-Melanie-Mitchell/dp/0199798109)
 
 ##### Rolled over goals 
 
