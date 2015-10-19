@@ -6,9 +6,11 @@ This is also inspired by [Una's <3](https://twitter.com/Una) [personal goals rep
 
 ##### Oct 12 - Oct 18:
 - [ ] Catch up on rolled over tasks :clap:
-- [x] Cellular [Automaton](https://github.com/lrlna/cellular-automaton)
-- [x] Apply to data visualization [workshop](http://data4chan.ge/#3)
-- [x] Mitchell's [Complexity](http://www.amazon.ca/Complexity-Guided-Tour-Melanie-Mitchell/dp/0199798109)
+- [ ] Read up on [cybersecurity](https://tech.safehubcollective.org/cybersecurity/)
+- [ ] Finish cellular [automaton](https://github.com/lrlna/cellular-automaton)
+- [ ] Work on node.js interactive slides!! :heart:
+- [ ] Work on a travel guide scraper for easier decision making -- Ruby + Ember?
+- [ ] Job applications, job applications, job applications!
 
 ##### Rolled over goals 
 
@@ -21,6 +23,6 @@ This is also inspired by [Una's <3](https://twitter.com/Una) [personal goals rep
 - [ ] Week 1 of [CS50](https://courses.edx.org/courses/HarvardX/CS50x3/2015/info) including assignments
 - [ ] Read _JavaScript the Good Parts_
 - [ ] Work on [loudplaces](https://github.com/soundboards/loudplaces)
-- [ ] Fix [dotfiles](https://github.com/lrlna/dotfiles/tree/463cc9f1723be4d161fb639284b50769e648092a)  
+- [x] Fix [dotfiles](https://github.com/lrlna/dotfiles/tree/463cc9f1723be4d161fb639284b50769e648092a)  
 - [ ] Get a job :ok_hand:
 

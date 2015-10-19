@@ -1,0 +1,4 @@
+- [ ] Catch up on rolled over tasks :clap:
+- [x] Cellular [Automaton](https://github.com/lrlna/cellular-automaton)
+- [x] Apply to data visualization [workshop](http://data4chan.ge/#3)
+- [x] Mitchell's [Complexity](http://www.amazon.ca/Complexity-Guided-Tour-Melanie-Mitchell/dp/0199798109)
