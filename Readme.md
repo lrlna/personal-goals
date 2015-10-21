@@ -8,9 +8,11 @@ This is also inspired by [Una's <3](https://twitter.com/Una) [personal goals rep
 - [ ] Catch up on rolled over tasks :clap:
 - [ ] Read up on [cybersecurity](https://tech.safehubcollective.org/cybersecurity/)
 - [ ] Finish cellular [automaton](https://github.com/lrlna/cellular-automaton)
+- [ ] Prepare for JavaScript LLC [Workshop](https://github.com/ladieslearningcode/JavaScript)
 - [ ] Work on node.js interactive slides!! :heart:
 - [ ] Work on a travel guide scraper for easier decision making -- Ruby + Ember?
 - [ ] Job applications, job applications, job applications!
+- [ ] Submit proposal to [OSCON](http://conferences.oreilly.com/oscon/open-source/public/cfp/423)
 
 ##### Rolled over goals 
 
