@@ -12,6 +12,10 @@ This is also inspired by [Una's <3](https://twitter.com/Una) [personal goals rep
 - [ ] Work on node.js interactive slides!! :heart:
 - [ ] Work on a travel guide scraper for easier decision making -- Ruby + Ember?
 - [ ] Job applications, job applications, job applications!
+- [ ] [Two pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.dbqp8hi8m)
+- [ ] Front-end Developer [Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [ ] [5 Questions every unit test must answer](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.l3fulg470)
+- [ ] [10 Interview questions every javascript programmer should know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 - [ ] Submit to [Render](https://docs.google.com/forms/d/1dcDOEjlDpwmWs9GnzbBSGtQ2hKuHQ0SV08dhavL5bPw/viewform)
 - [ ] Submit proposal to [OSCON](http://conferences.oreilly.com/oscon/open-source/public/cfp/423)
 
