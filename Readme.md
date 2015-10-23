@@ -2,7 +2,6 @@
 
 This repo is to help organize projects and learning objectives I plan to work on in the next while.
 
-This is also inspired by [Una's <3](https://twitter.com/Una) [personal goals repo](https://github.com/una/personal-goals)
 
 ##### Oct 12 - Oct 18:
 - [ ] Catch up on rolled over tasks :clap:
@@ -11,7 +10,7 @@ This is also inspired by [Una's <3](https://twitter.com/Una) [personal goals rep
 - [ ] Prepare for JavaScript LLC [Workshop](https://github.com/ladieslearningcode/JavaScript)
 - [ ] Work on node.js interactive slides!! :heart:
 - [ ] Work on a travel guide scraper for easier decision making -- Ruby + Ember?
-- [ ] Job applications, job applications, job applications!
+- [x] Job applications, job applications, job applications!
 - [ ] [Two pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.dbqp8hi8m)
 - [ ] Front-end Developer [Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [ ] [5 Questions every unit test must answer](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.l3fulg470)
@@ -32,4 +31,7 @@ This is also inspired by [Una's <3](https://twitter.com/Una) [personal goals rep
 - [ ] Work on [loudplaces](https://github.com/soundboards/loudplaces)
 - [x] Fix [dotfiles](https://github.com/lrlna/dotfiles/tree/463cc9f1723be4d161fb639284b50769e648092a)  
 - [ ] Get a job :ok_hand:
+
+
+This is also inspired by [Una's <3](https://twitter.com/Una) [personal goals repo](https://github.com/una/personal-goals)
 
