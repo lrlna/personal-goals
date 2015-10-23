@@ -2,7 +2,6 @@
 
 This repo is to help organize projects and learning objectives I plan to work on in the next while.
 
-This is also inspired by [Una's <3](https://twitter.com/Una) [personal goals repo](https://github.com/una/personal-goals)
 
 ##### Oct 12 - Oct 18:
 - [ ] Catch up on rolled over tasks :clap:
@@ -28,4 +27,7 @@ This is also inspired by [Una's <3](https://twitter.com/Una) [personal goals rep
 - [ ] Work on [loudplaces](https://github.com/soundboards/loudplaces)
 - [x] Fix [dotfiles](https://github.com/lrlna/dotfiles/tree/463cc9f1723be4d161fb639284b50769e648092a)  
 - [ ] Get a job :ok_hand:
+
+
+This is also inspired by [Una's <3](https://twitter.com/Una) [personal goals repo](https://github.com/una/personal-goals)
 
