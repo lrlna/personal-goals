@@ -3,7 +3,7 @@
 This repo is to help organize projects and learning objectives I plan to work on in the next while.
 
 
-##### Oct 12 - Oct 18:
+##### Oct 19 - Oct 25:
 - [ ] Catch up on rolled over tasks :clap:
 - [ ] Read up on [cybersecurity](https://tech.safehubcollective.org/cybersecurity/)
 - [ ] Finish cellular [automaton](https://github.com/lrlna/cellular-automaton)
