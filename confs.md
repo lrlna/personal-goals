@@ -1,6 +1,6 @@
 ## List of awesome conferences:
 
-###### JahhhvaScript confs
+###### JahhhvaScript (:maple_leaf:) confs
 
 | Conference | Time of the Year | Location |
 | :------------ |:---------------:| -----:|
