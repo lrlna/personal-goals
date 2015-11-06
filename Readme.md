@@ -7,6 +7,8 @@ This repo is to help organize projects and learning objectives I plan to work on
 - [ ] Finish _JavaScript the Good Parts_
 - [ ] [Readability Test](https://github.com/lrlna/readability-test) module published + make a user interface!
 - [ ] Learn more on array/obj manipulation in JS -- `.filter`, `.map`, `.reduce`; use in the readability project above
+- [ ] [Functional JavaScript](http://almostobsolete.net/talks/functionaljs/#1)
+- [ ] Prepare for Girls Learning Code National Code Day! 
 
 ##### Rolled over goals 
 
