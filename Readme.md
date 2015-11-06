@@ -2,6 +2,7 @@
 
 This repo is to help organize projects and learning objectives I plan to work on in the next while.
 
+If you are reading this and thinking "Hmmm, there is this cool book/article/video you should read", please submit an issue <3. 
 
 ##### Nov 2 - Nov 8:
 - [ ] Finish _JavaScript the Good Parts_
@@ -30,5 +31,5 @@ This repo is to help organize projects and learning objectives I plan to work on
 - [ ] Get a job :ok_hand:
 
 
-This is also inspired by [Una's <3](https://twitter.com/Una) [personal goals repo](https://github.com/una/personal-goals)
+This is inspired by [Una's <3](https://twitter.com/Una) [personal goals repo](https://github.com/una/personal-goals)
 
