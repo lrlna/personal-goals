@@ -7,9 +7,9 @@ If you are reading this and thinking "Hmmm, there is this cool book/article/vide
 ##### Nov 2 - Nov 8:
 - [ ] Finish _JavaScript the Good Parts_
 - [ ] [Readability Test](https://github.com/lrlna/readability-test) module published + make a user interface!
-- [ ] Learn more on array/obj manipulation in JS -- `.filter`, `.map`, `.reduce`; use in the readability project above
+- [x] Learn more on array/obj manipulation in JS -- `.filter`, `.map`, `.reduce`; use in the readability project above
 - [ ] [Functional JavaScript](http://almostobsolete.net/talks/functionaljs/#1)
-- [ ] Prepare for Girls Learning Code National Code Day! 
+- [x] Prepare for Girls Learning Code National Code Day! 
 
 ##### Rolled over goals 
 
