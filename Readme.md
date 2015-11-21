@@ -4,17 +4,17 @@ This repo is to help organize projects and learning objectives I plan to work on
 
 If you are reading this and thinking "Hmmm, there is this cool book/article/video you should read", please submit an issue <3. 
 
-##### Nov 2 - Nov 8:
-- [ ] Finish _JavaScript the Good Parts_
-- [ ] [Readability Test](https://github.com/lrlna/readability-test) module published + make a user interface!
-- [ ] Learn more on array/obj manipulation in JS -- `.filter`, `.map`, `.reduce`; use in the readability project above
-- [ ] [Functional JavaScript](http://almostobsolete.net/talks/functionaljs/#1)
-- [ ] Prepare for Girls Learning Code National Code Day! 
+##### Nov 23 - Nov 29:
+- [ ] Nodeschool's [functional javascript tutorial](https://github.com/timoxley/functional-javascript-workshop)
+- [ ] Nodeschool's [streams adventure](https://github.com/substack/stream-adventure)
+- [ ] Work on node.js interactive slides!! :heart:
 
 ##### Rolled over goals 
 
 - [ ] Read up on [cybersecurity](https://tech.safehubcollective.org/cybersecurity/)
-- [ ] Work on node.js interactive slides!! :heart:
+- [ ] Finish _JavaScript the Good Parts_
+- [ ] [Readability Test](https://github.com/lrlna/readability-test) module published + make a user interface!
+- [ ] [Functional JavaScript](http://almostobsolete.net/talks/functionaljs/#1)
 - [ ] Work on a travel guide scraper for easier decision making -- Ruby + Ember?
 - [ ] [Two pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.dbqp8hi8m)
 - [ ] Front-end Developer [Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
