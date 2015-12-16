@@ -5,7 +5,7 @@ This repo is to help organize projects and learning objectives I plan to work on
 If you are reading this and thinking "Hmmm, there is this cool book/article/video you should read", please submit an issue <3. 
 
 ##### Dec 14 - Dec 20:
-- [ ] data4change feedback survey :heart:
+- [x] data4change feedback survey :heart:
 - [ ] [VDC Prototype site](https://github.com/lrlna/vdc-visualization)
 - [ ] write readmes for thy projects !!! :information_desk_person:
 - [ ] finish [cli-texting](https://github.com/lrlna/cli-texting)
