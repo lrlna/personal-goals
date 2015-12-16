@@ -1,0 +1,3 @@
+- [x] Nodeschool's [functional javascript tutorial](https://github.com/timoxley/functional-javascript-workshop)
+- [ ] Nodeschool's [streams adventure](https://github.com/substack/stream-adventure)
+- [x] Work on node.js interactive slides!! :heart:
