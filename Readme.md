@@ -23,6 +23,7 @@ If you are reading this and thinking "Hmmm, there is this cool book/article/vide
 - [ ] Submit to [signal conf](https://www.twilio.com/signal/call-for-presenters)
 
 ##### Cool projects to keep in mind/work on:
+
 - [ ] [loudplaces](https://github.com/soundboards/loudplaces)
 - [ ] Travel guide scraper for easier decision making -- Ruby + Ember?
 - [ ] [Readability Test](https://github.com/lrlna/readability-test) module published + make a user interface!
