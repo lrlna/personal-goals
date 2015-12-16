@@ -3,3 +3,10 @@
 - [x] Work on node.js interactive slides!! :heart:
 - [x] Get a job :ok_hand:
 - [x] Chapter 3: _JavaScript the Good Parts_
+- [ ] ~~Submit to [Render](https://docs.google.com/forms/d/1dcDOEjlDpwmWs9GnzbBSGtQ2hKuHQ0SV08dhavL5bPw/viewform)~~
+- [ ] ~~Submit proposal to [OSCON](http://conferences.oreilly.com/oscon/open-source/public/cfp/423)~~
+- [x] Chapter 4: _JavaScript the Good Parts_
+- ~~[ ] Week 2 of [CS50](https://courses.edx.org/courses/HarvardX/CS50x3/2015/info) including assignments~~
+- [x] [Two pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.dbqp8hi8m)
+- ~~[ ] Week 1 of [CS50](https://courses.edx.org/courses/HarvardX/CS50x3/2015/info) including assignments~~
+- [x] Finish _JavaScript the Good Parts_
