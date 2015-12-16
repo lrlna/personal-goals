@@ -1,3 +1,5 @@
 - [x] Nodeschool's [functional javascript tutorial](https://github.com/timoxley/functional-javascript-workshop)
 - [ ] Nodeschool's [streams adventure](https://github.com/substack/stream-adventure)
 - [x] Work on node.js interactive slides!! :heart:
+- [x] Get a job :ok_hand:
+- [x] Chapter 3: _JavaScript the Good Parts_
