@@ -5,6 +5,7 @@ ORRRR
 - [ ] [Arduino Lilypad](https://www.sparkfun.com/products/11201) -- comes as a kit
 - [ ] [Arduino](https://www.arduino.cc/en/Main/ArduinoBoardUno) ... might be useful. Basic Uno for now :information_desk_person:
 - [ ] [Breadboard](https://www.sparkfun.com/products/12002) -- !important
+- [ ] Maybe a [Particle Photon](https://store.particle.io/)
 
 ## Hardware readings + projects + tutorials:
 
