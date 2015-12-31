@@ -10,14 +10,15 @@ If you are reading this and thinking "Hmmm, there is this cool book/article/vide
 - [ ] write readmes for thy projects !!! :information_desk_person:
 - [ ] finish [cli-texting](https://github.com/lrlna/cli-texting)
 - [ ] more nodeschool! [couchdb](https://github.com/robertkowalski/learnyoucouchdb)
-- [ ] submit to [Front-Trends](https://2016.front-trends.com/speaking-at-front-trends/)
-- [ ] submit to [JSConf Uruguay](https://jsconf.uy/talks)
+- [x] submit to [JSConf Uruguay](https://jsconf.uy/talks)
 - [ ] submit a PR to nodeschool vancouver for [mentor info](https://github.com/nodeschool/vancouver/issues/26)
-- [ ] submit to [Front-Trends](https://2016.front-trends.com/speaking-at-front-trends/)
+- [x] submit to [Front-Trends](https://2016.front-trends.com/speaking-at-front-trends/)
 
 ## Future Projects + backburner! 
 
-- [ ] Read up on [cybersecurity](https://tech.safehubcollective.org/cybersecurity/)
+- [ ] Read: [cybersecurity](https://tech.safehubcollective.org/cybersecurity/)
+- [ ] Read: [Starters and Maintainers](http://jlongster.com/Starters-and-Maintainers)
+- [ ] Read: [Connect Cisco VPN + Linux](http://www.humans-enabled.com/2011/12/how-to-connect-to-cisco-systems-vpn.html) 
 - [ ] Nodeschool [streams adventure](https://github.com/substack/stream-adventure)
 - [ ] [Functional JavaScript](http://almostobsolete.net/talks/functionaljs/#1)
 - [ ] Front-end Developer [Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
