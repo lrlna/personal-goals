@@ -11,7 +11,7 @@ If you are reading this and thinking "Hmmm, there is this cool book/article/vide
 - [ ] finish [cli-texting](https://github.com/lrlna/cli-texting)
 - [ ] more nodeschool! [couchdb](https://github.com/robertkowalski/learnyoucouchdb)
 - [x] submit to [JSConf Uruguay](https://jsconf.uy/talks)
-- [ ] submit a PR to nodeschool vancouver for [mentor info](https://github.com/nodeschool/vancouver/issues/26)
+- [x] submit a PR to nodeschool vancouver for [mentor info](https://github.com/nodeschool/vancouver/issues/26)
 - [x] submit to [Front-Trends](https://2016.front-trends.com/speaking-at-front-trends/)
 
 ## Future Projects + backburner! 
