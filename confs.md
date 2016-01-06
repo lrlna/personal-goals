@@ -12,6 +12,7 @@
 | [NodeInteractive](http://events.linuxfoundation.org/events/node-interactive) | December | PDX |
 | [JSConf Uruguay](https://jsconf.uy/talks) | April | Montevideo, UY | 
 | [Front-Trends](https://2016.front-trends.com/speaking-at-front-trends/) | May | Warsaw, PZ | 
+| [JSConf Beirut](http://jsconfbeirut.com) | February | Beirut |
 
 ###### Nor pertaining to a language confs 
 
@@ -19,3 +20,4 @@
 | :------------ |:---------------:| -----:|
 | [SignalConf](https://twitter.com/signalconf) | May | SFO |
 | [OSCON](https://twitter.com/oscon) | May | Austin/Amsterdam |
+| [ViewSource](https://viewsourceconf.org/) | November | Portland |
