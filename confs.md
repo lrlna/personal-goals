@@ -14,6 +14,7 @@
 | [Front-Trends](https://2016.front-trends.com/speaking-at-front-trends/) | May | Warsaw, PZ | 
 | [JSConf Beirut](http://jsconfbeirut.com) | February | Beirut |
 | [DinosaurJS](http://dinosaurjs.org/) | June | Denver |
+| [MidwestJS](http://midwestjs.com/) | August | Minneapolis |
 
 ###### Nor pertaining to a language confs 
 

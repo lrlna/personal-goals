@@ -4,27 +4,25 @@ This repo is to help organize projects and learning objectives I plan to work on
 
 If you are reading this and thinking "Hmmm, there is this cool book/article/video you should read", please submit an issue <3. 
 
-## Dec 14 - Dec 20:
-- [x] data4change feedback survey :heart:
+## Jan 11 - Jan 17:
 - [ ] [VDC Prototype site](https://github.com/lrlna/vdc-visualization)
 - [ ] write readmes for thy projects !!! :information_desk_person:
 - [ ] finish [cli-texting](https://github.com/lrlna/cli-texting)
+- [ ] Read: [cybersecurity](https://tech.safehubcollective.org/cybersecurity/)
+- [ ] Read: [Starters and Maintainers](http://jlongster.com/Starters-and-Maintainers)
 - [ ] more nodeschool! [couchdb](https://github.com/robertkowalski/learnyoucouchdb)
-- [x] submit to [JSConf Uruguay](https://jsconf.uy/talks)
-- [x] submit a PR to nodeschool vancouver for [mentor info](https://github.com/nodeschool/vancouver/issues/26)
-- [x] submit to [Front-Trends](https://2016.front-trends.com/speaking-at-front-trends/)
+- [ ] work on yargs [website](http://yargs.js.org) :tada:
+- [ ] Prep for [nodeschoolyvr](http://nodeschool.io/vancouver)
+- [ ] Emoji Twitter bot with :sparkles: Amanda :sparkles: ??? :information_desk_person: :tada: :star2:
+- [x] Conf: apply to [Midwest.js](http://midwestjs.com/)
 
 ## Future Projects + backburner! 
 
-- [ ] Read: [cybersecurity](https://tech.safehubcollective.org/cybersecurity/)
-- [ ] Read: [Starters and Maintainers](http://jlongster.com/Starters-and-Maintainers)
 - [ ] Read: [Connect Cisco VPN + Linux](http://www.humans-enabled.com/2011/12/how-to-connect-to-cisco-systems-vpn.html) 
 - [ ] Nodeschool [streams adventure](https://github.com/substack/stream-adventure)
 - [ ] [Functional JavaScript](http://almostobsolete.net/talks/functionaljs/#1)
 - [ ] Front-end Developer [Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [ ] [5 Questions every unit test must answer](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.l3fulg470)
-- [ ] ~~Submit Week 0 assignment for [CS50](https://courses.edx.org/courses/HarvardX/CS50x3/2015/info)~~
-- [ ] ~~Submit to [signal conf](https://www.twilio.com/signal/call-for-presenters)~~
 - [ ] [Compose Key](https://help.ubuntu.com/community/ComposeKey) for emojis for linux. Consider a library?
 - [ ] [loudplaces](https://github.com/soundboards/loudplaces)
 - [ ] Travel guide scraper for easier decision making -- Ruby + Ember?
