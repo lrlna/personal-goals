@@ -1,12 +1,12 @@
 ## Hardware Toys I would like:
 
-- [ ] [Flora Board](https://www.adafruit.com/products/1405) for wearables 
+- [x] [Flora Board](https://www.adafruit.com/products/1405) for wearables 
 ORRRR
 - [ ] [Arduino Lilypad](https://www.sparkfun.com/products/11201) -- comes as a kit
-- [ ] [Gemma](https://www.adafruit.com/gemma) as suggested by @helenvholmes
+- [x] [Gemma](https://www.adafruit.com/gemma) as suggested by @helenvholmes
 - [ ] hollllyyyy shit this little bb of a [NeoPixel](https://www.adafruit.com/product/1586) :heart_eyes: :heart_eyes: -- :zap: some things
 - [ ] [Arduino](https://www.arduino.cc/en/Main/ArduinoBoardUno) ... might be useful. Basic Uno for now :information_desk_person:
-- [ ] [Breadboard](https://www.sparkfun.com/products/12002) -- !important
+- [x] [Breadboard](https://www.sparkfun.com/products/12002) -- !important
 - [ ] Maybe a [Particle Photon](https://store.particle.io/)
 - [ ] PRETTY [WIRES](https://www.adafruit.com/product/545) to light things up. 
 
