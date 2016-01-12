@@ -9,7 +9,7 @@ If you are reading this and thinking "Hmmm, there is this cool book/article/vide
 - [ ] write readmes for thy projects !!! :information_desk_person:
 - [ ] finish [cli-texting](https://github.com/lrlna/cli-texting)
 - [ ] Read: [cybersecurity](https://tech.safehubcollective.org/cybersecurity/)
-- [ ] Read: [Starters and Maintainers](http://jlongster.com/Starters-and-Maintainers)
+- [x] Read: [Starters and Maintainers](http://jlongster.com/Starters-and-Maintainers)
 - [ ] more nodeschool! [couchdb](https://github.com/robertkowalski/learnyoucouchdb)
 - [ ] work on yargs [website](http://yargs.js.org) :tada:
 - [ ] Prep for [nodeschoolyvr](http://nodeschool.io/vancouver)
