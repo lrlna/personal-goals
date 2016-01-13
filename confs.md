@@ -13,6 +13,7 @@
 | [JSConf Uruguay](https://jsconf.uy/talks) | April | Montevideo, UY | 
 | [Front-Trends](https://2016.front-trends.com/speaking-at-front-trends/) | May | Warsaw, PZ | 
 | [DinosaurJS](http://dinosaurjs.org/) | June | Denver |
+| [EmpireJS](http://2016.empirejs.org/) | May | NYC, USA |
 | [MidwestJS](http://midwestjs.com/) | August | Minneapolis |
 
 ###### Nor pertaining to a language confs 
