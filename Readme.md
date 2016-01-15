@@ -10,7 +10,7 @@ If you are reading this and thinking "Hmmm, there is this cool book/article/vide
 - [ ] Watch: [JavaScript Closures](https://www.youtube.com/watch?v=yiEeiMN2Khs)
 - [ ] Do: [VDC Prototype site](https://github.com/lrlna/vdc-visualization)
 - [ ] Do: write readmes for thy projects !!! :information_desk_person:
-- [ ] Do: work on ~finish~ [cli-texting](https://github.com/lrlna/cli-texting)
+- [ ] Do: work on ~~finish~~ [cli-texting](https://github.com/lrlna/cli-texting)
 - [ ] Do: more nodeschool! [couchdb](https://github.com/robertkowalski/learnyoucouchdb)
 - [ ] Do: work on yargs [website](http://yargs.js.org) :tada:
 - [ ] Do: Prep for [nodeschoolyvr](http://nodeschool.io/vancouver)
