@@ -12,8 +12,8 @@ If you are reading this and thinking "Hmmm, there is this cool book/article/vide
 - [ ] Do: write readmes for thy projects !!! :information_desk_person:
 - [ ] Do: work on ~~finish~~ [cli-texting](https://github.com/lrlna/cli-texting)
 - [ ] Do: more nodeschool! [couchdb](https://github.com/robertkowalski/learnyoucouchdb)
-- [ ] Do: work on yargs [website](http://yargs.js.org) :tada:
-- [ ] Do: Prep for [nodeschoolyvr](http://nodeschool.io/vancouver)
+- [x] Do: work on yargs [website](http://yargs.js.org) :tada:
+- [x] Do: Prep for [nodeschoolyvr](http://nodeschool.io/vancouver)
 - [ ] Do: Emoji Twitter bot with :sparkles: Amanda :sparkles: ??? :information_desk_person: :tada: :star2:
 - [x] Conf: apply to [nodeconf Oslo](http://oslo.nodeconf.com/)
 - [x] Conf: apply to [Midwest.js](http://midwestjs.com/)
