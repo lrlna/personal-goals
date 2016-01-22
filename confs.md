@@ -2,6 +2,8 @@
 
 ###### JahhhvaScript (:maple_leaf:) confs
 
+CSS-Tricks [list](https://css-tricks.com/2016-front-end-conferences/)
+
 | Conference | Time of the Year | Location |
 | :------------ |:---------------:| -----:|
 | [Cascadia.js](https://twitter.com/cascadiajs) | July | PNW |
