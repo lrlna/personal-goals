@@ -4,7 +4,7 @@ This repo is to help organize projects and learning objectives I plan to work on
 
 If you are reading this and thinking "Hmmm, there is this cool book/article/video you should read", please submit an issue <3. 
 
-## Jan 18 - Jan 24:
+## Jan 25 - Jan 31:
 - [ ] Do: [VDC Prototype site](https://github.com/lrlna/vdc-visualization)
 - [ ] Do: write readmes for thy projects !!! :information_desk_person:
 - [ ] Do: work on [cli-texting](https://github.com/lrlna/cli-texting)
