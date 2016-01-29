@@ -12,8 +12,8 @@ If you are reading this and thinking "Hmmm, there is this cool book/article/vide
 - [ ] Do: Emoji Twitter bot with :sparkles: Amanda :sparkles: :information_desk_person: :tada: :star2:
 - [ ] Do: [Yargs](yargs.js.org) landing page example
 - [ ] Read: [Paul Graham is Still Asking to be Eaten](https://medium.com/@girlziplocked/paul-graham-is-still-asking-to-be-eaten-5f021c0c0650#.xoskqqa9m)
-- [ ] Read: [Wiki](http://nodejs.wikia.com/wiki/Buffers) on buffers in nodejs
-- [ ] Read: [Buffers in node.js](https://docs.nodejitsu.com/articles/advanced/buffers/how-to-use-buffers); moreeee on buffers
+- [x] Read: [Wiki](http://nodejs.wikia.com/wiki/Buffers) on buffers in nodejs
+- [x] Read: [Buffers in node.js](https://docs.nodejitsu.com/articles/advanced/buffers/how-to-use-buffers); moreeee on buffers
 - [ ] Read: [Connect Cisco VPN + Linux](http://www.humans-enabled.com/2011/12/how-to-connect-to-cisco-systems-vpn.html) 
 - [ ] Read: [Moarr Closures](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.lzipqnat7)
 - [ ] Read: [Functional JavaScript](http://almostobsolete.net/talks/functionaljs/#1)
