@@ -1,0 +1,6 @@
+- [x] Do: write readmes for thy projects !!! :information_desk_person:
+- [x] Do: work on [cli-texting](https://github.com/lrlna/cli-texting)
+- [x] Do: [Yargs](yargs.js.org) landing page example
+- [x] Read: [Wiki](http://nodejs.wikia.com/wiki/Buffers) on buffers in nodejs
+- [x] Read: [Buffers in node.js](https://docs.nodejitsu.com/articles/advanced/buffers/how-to-use-buffers); moreeee on buffers
+- [x] Write: Start writing about interactive command line things. 
