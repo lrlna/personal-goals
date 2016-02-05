@@ -10,6 +10,8 @@ If you are reading this and thinking "Hmmm, there is this cool book/article/vide
 - [ ] Do: Emoji Twitter bot with :sparkles: Amanda :sparkles: :information_desk_person: :tada: :star2:
 - [ ] Do: [DinosaurJS CFP](http://speak.dinosaurjs.org/events/dinosaurjs-2016)
 - [ ] Do: [NordicJS CFP](https://nordicjs-cfp.confetti.events/rsvp)
+- [ ] Do: Finish [Yargs](https://github.com/bcoe/yargs) [landing page](https://github.com/yargs/yargs.github.io)
+- [ ] Do: Finish [cli-texting](https://github.com/lrlna/cli-texting) :nail_care:
 - [x] Read: [Why I’m finally convinced it's time to stop saying "you guys"](http://www.vox.com/2015/6/11/8761227/you-guys-sexism-language)
 - [x] Read: [Guys, Can We Stop Calling Everyone "Guys" Already?](http://mic.com/articles/115090/guys-can-we-stop-calling-everyone-guys-already#.vPQYkyn88)
 - [x] Read: [Language Matters: Stop Using “Guys” to Address Mix-Gender Groups](https://subfictional.com/2012/07/02/language-matters-stop-using-guys-to-address-mix-gender-groups/)
