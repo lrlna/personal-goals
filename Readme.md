@@ -16,7 +16,7 @@ If you are reading this and thinking "Hmmm, there is this cool book/article/vide
 - [x] Read: [Guys, Can We Stop Calling Everyone "Guys" Already?](http://mic.com/articles/115090/guys-can-we-stop-calling-everyone-guys-already#.vPQYkyn88)
 - [x] Read: [Language Matters: Stop Using “Guys” to Address Mix-Gender Groups](https://subfictional.com/2012/07/02/language-matters-stop-using-guys-to-address-mix-gender-groups/)
 - [ ] Read: [Theory of Cellular Automata](http://cba.mit.edu/events/03.11.ASE/docs/VonNeumann.pdf) by John von Neumann 
-- [ ] Read: [Paul Graham is Still Asking to be Eaten](https://medium.com/@girlziplocked/paul-graham-is-still-asking-to-be-eaten-5f021c0c0650#.xoskqqa9m)
+- [x] Read: [Paul Graham is Still Asking to be Eaten](https://medium.com/@girlziplocked/paul-graham-is-still-asking-to-be-eaten-5f021c0c0650#.xoskqqa9m)
 - [ ] Read: [Connect Cisco VPN + Linux](http://www.humans-enabled.com/2011/12/how-to-connect-to-cisco-systems-vpn.html) 
 - [ ] Read: [Moarr Closures](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.lzipqnat7)
 - [ ] Read: [Functional JavaScript](http://almostobsolete.net/talks/functionaljs/#1)
