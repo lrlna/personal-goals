@@ -14,8 +14,9 @@ If you are reading this and thinking "Hmmm, there is this cool book/article/vide
 
 - [ ] Do: more nodeschool! [couchdb](https://github.com/robertkowalski/learnyoucouchdb)
 - [ ] Do: Emoji Twitter bot with :sparkles: Amanda :sparkles: :information_desk_person: :tada: :star2:
-- [ ] Do: [DinosaurJS CFP](http://speak.dinosaurjs.org/events/dinosaurjs-2016)
+- [x] Do: [DinosaurJS CFP](http://speak.dinosaurjs.org/events/dinosaurjs-2016)
 - [ ] Do: [NordicJS CFP](https://nordicjs-cfp.confetti.events/rsvp)
+- [ ] Read: [Evolving Cellular Automata with Genetic Algorithms: A Review of Recent Work](http://rundle.physics.ucdavis.edu/PHYGEO30/MitchellCAsandGAs.pdf)
 - [ ] Read: [Theory of Cellular Automata](http://cba.mit.edu/events/03.11.ASE/docs/VonNeumann.pdf) by John von Neumann 
 - [ ] Read: [Connect Cisco VPN + Linux](http://www.humans-enabled.com/2011/12/how-to-connect-to-cisco-systems-vpn.html) 
 - [ ] Read: [Moarr Closures](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.lzipqnat7)
