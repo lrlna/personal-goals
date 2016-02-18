@@ -9,6 +9,7 @@ If you are reading this and thinking "Hmmm, there is this cool book/article/vide
 ##### Overarching Goal:
 
 - [ ] Do: *finish* [cli-texting](https://github.com/lrlna/cli-texting)
+
 -------------------------------
 
 - [ ] Do: more nodeschool! [couchdb](https://github.com/robertkowalski/learnyoucouchdb)
