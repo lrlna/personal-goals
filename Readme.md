@@ -17,6 +17,7 @@ If you are reading this and thinking "Hmmm, there is this cool book/article/vide
 - [ ] Do: Prepare for [LLC JavaScript]()
 - [ ] Read: [Evolving Cellular Automata with Genetic Algorithms: A Review of Recent Work](http://rundle.physics.ucdavis.edu/PHYGEO30/MitchellCAsandGAs.pdf)
 - [ ] Read: [Theory of Cellular Automata](http://cba.mit.edu/events/03.11.ASE/docs/VonNeumann.pdf) by John von Neumann 
+- [x] Read: [Amore e Morte](http://dystopia.me/mujuice-amore-e-morte/) Mujuice album review
 - [ ] Read: [Connect Cisco VPN + Linux](http://www.humans-enabled.com/2011/12/how-to-connect-to-cisco-systems-vpn.html) 
 - [ ] Read: [Moarr Closures](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.lzipqnat7)
 - [ ] Read: [Functional JavaScript](http://almostobsolete.net/talks/functionaljs/#1)
