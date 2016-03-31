@@ -14,8 +14,8 @@ If you are reading this and thinking "Hmmm, there is this cool book/article/vide
 
 - [ ] Watch: [Aggregation](https://www.youtube.com/watch?v=Kc-KW8EuFZw) Model-Thinking
 - [ ] Watch: [Central Limit Theorem](https://www.youtube.com/watch?v=ifTRaYnAfh4) Model-Thinking
-- [ ] Watch: [Game of Life]() Model-Thinking
-- [ ] Watch: [Cellular Automata]() Model-Thinking
+- [ ] Watch: [Game of Life](https://www.youtube.com/watch?v=fna6xW76NYg) Model-Thinking
+- [ ] Watch: [Cellular Automata](https://www.youtube.com/watch?v=XBB_lOfsqQA) Model-Thinking
 - [ ] Read: _Computational mechanics of cellular automata_ Hanson, Crutchfield, 1997
 - [ ] Read: _Evolution of cellular automata with memory: The Density Classification Task_ Stone, Bull, 2009
 - [ ] Read: _Computational Theory of Cellular Automata_ Wolfram, 1984
