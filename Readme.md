@@ -17,10 +17,8 @@ If you are reading this and thinking "Hmmm, there is this cool book/article/vide
 - [ ] Watch: [Game of Life]() Model-Thinking
 - [ ] Watch: [Cellular Automata]() Model-Thinking
 - [ ] Read: _Computational mechanics of cellular automata_ Hanson, Crutchfield, 1997
-- [x] Do: Prepare for [LLC JavaScript]()
-- [x] Read: [Evolving Cellular Automata with Genetic Algorithms: A Review of Recent Work](http://rundle.physics.ucdavis.edu/PHYGEO30/MitchellCAsandGAs.pdf)
-- [x] Read: [Theory of Cellular Automata](http://cba.mit.edu/events/03.11.ASE/docs/VonNeumann.pdf) by John von Neumann 
-- [x] Read: [Amore e Morte](http://dystopia.me/mujuice-amore-e-morte/) Mujuice album review
+- [ ] Read: _Evolution of cellular automata with memory: The Density Classification Task_ Stone, Bull, 2009
+- [ ] Read: _Computational Theory of Cellular Automata_ Wolfram, 1984
 
 ## Future Projects + backburner! 
 
