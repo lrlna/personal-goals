@@ -1,0 +1,4 @@
+- [x] Do: Prepare for [LLC JavaScript]()
+- [x] Read: [Evolving Cellular Automata with Genetic Algorithms: A Review of Recent Work](http://rundle.physics.ucdavis.edu/PHYGEO30/MitchellCAsandGAs.pdf)
+- [x] Read: [Theory of Cellular Automata](http://cba.mit.edu/events/03.11.ASE/docs/VonNeumann.pdf) by John von Neumann 
+- [x] Read: [Amore e Morte](http://dystopia.me/mujuice-amore-e-morte/) Mujuice album review
