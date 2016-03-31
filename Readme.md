@@ -19,6 +19,7 @@ If you are reading this and thinking "Hmmm, there is this cool book/article/vide
 - [ ] Read: _Computational mechanics of cellular automata_ Hanson, Crutchfield, 1997
 - [ ] Read: _Evolution of cellular automata with memory: The Density Classification Task_ Stone, Bull, 2009
 - [ ] Read: _Computational Theory of Cellular Automata_ Wolfram, 1984
+- [ ] Read: _Resource Sharing and Coevolution in Evolving Cellular Automata_ Werfel, Mitchell, Crutchfield, 2000
 
 ## Future Projects + backburner! 
 
