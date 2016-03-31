@@ -4,29 +4,35 @@ This repo is to help organize projects and learning objectives I plan to work on
 
 If you are reading this and thinking "Hmmm, there is this cool book/article/video you should read", please submit an issue <3. 
 
-## Feb 22 - Feb 28:
+## Mar 28 - Apr 3:
 
 ##### Overarching Goal:
 
-- [ ] Do: *finish* [cli-texting](https://github.com/lrlna/cli-texting)
+- [ ] Cellular Automata collision detection codez
 
 -------------------------------
 
-- [ ] Do: more nodeschool! [couchdb](https://github.com/robertkowalski/learnyoucouchdb)
-- [ ] Do: Emoji Twitter bot with :sparkles: Amanda :sparkles: :information_desk_person: :tada: :star2:
-- [ ] Do: Prepare for [LLC JavaScript]()
-- [ ] Read: [Evolving Cellular Automata with Genetic Algorithms: A Review of Recent Work](http://rundle.physics.ucdavis.edu/PHYGEO30/MitchellCAsandGAs.pdf)
-- [ ] Read: [Theory of Cellular Automata](http://cba.mit.edu/events/03.11.ASE/docs/VonNeumann.pdf) by John von Neumann 
+- [ ] Watch: [Aggregation](https://www.youtube.com/watch?v=Kc-KW8EuFZw) Model-Thinking
+- [ ] Watch: [Central Limit Theorem](https://www.youtube.com/watch?v=ifTRaYnAfh4) Model-Thinking
+- [ ] Watch: [Game of Life]() Model-Thinking
+- [ ] Watch: [Cellular Automata]() Model-Thinking
+- [ ] Read: _Computational mechanics of cellular automata_ Hanson, Crutchfield, 1997
+- [x] Do: Prepare for [LLC JavaScript]()
+- [x] Read: [Evolving Cellular Automata with Genetic Algorithms: A Review of Recent Work](http://rundle.physics.ucdavis.edu/PHYGEO30/MitchellCAsandGAs.pdf)
+- [x] Read: [Theory of Cellular Automata](http://cba.mit.edu/events/03.11.ASE/docs/VonNeumann.pdf) by John von Neumann 
 - [x] Read: [Amore e Morte](http://dystopia.me/mujuice-amore-e-morte/) Mujuice album review
-- [ ] Read: [Connect Cisco VPN + Linux](http://www.humans-enabled.com/2011/12/how-to-connect-to-cisco-systems-vpn.html) 
-- [ ] Read: [Moarr Closures](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.lzipqnat7)
-- [ ] Read: [Functional JavaScript](http://almostobsolete.net/talks/functionaljs/#1)
 
 ## Future Projects + backburner! 
 
-- [ ] Do: [VDC Prototype site](https://github.com/lrlna/vdc-visualization)
+- [ ] Read: [Connect Cisco VPN + Linux](http://www.humans-enabled.com/2011/12/how-to-connect-to-cisco-systems-vpn.html) 
+- [ ] Read: [Moarr Closures](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.lzipqnat7)
+- [ ] Read: [Functional JavaScript](http://almostobsolete.net/talks/functionaljs/#1)
 - [ ] Read: Front-end Developer [Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [ ] Read: [5 Questions every unit test must answer](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.l3fulg470)
+- [ ] Do: more nodeschool! [couchdb](https://github.com/robertkowalski/learnyoucouchdb)
+- [ ] Do: *finish* [cli-texting](https://github.com/lrlna/cli-texting)
+- [ ] Do: [VDC Prototype site](https://github.com/lrlna/vdc-visualization)
+- [ ] Do: Emoji Twitter bot with :sparkles: Amanda :sparkles: :information_desk_person: :tada: :star2:
 - [ ] Do: [Compose Key](https://help.ubuntu.com/community/ComposeKey) for emojis for linux. Consider a library?
 - [ ] Do: [loudplaces](https://github.com/soundboards/loudplaces)
 - [ ] Do: Travel guide scraper for easier decision making -- Ruby + Ember?
