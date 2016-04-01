@@ -23,11 +23,11 @@ If you are reading this and thinking "Hmmm, there is this cool book/article/vide
 - [ ] Read: _Cellular Automata on Graphs: Topological Properties of ER Graphs Evolved towards Low-Entropy Dynamics_ Marr, Hutt, 2012
 - [ ] Read: [Graph](https://en.wikipedia.org/wiki/Graph_(abstract_data_type)) data type
 - [ ] Read: [Cycle detection](https://en.wikipedia.org/wiki/Cycle_detection)
-- [ ] Listen: [_The Field's_](http://www.stereogum.com/1867810/stream-the-field-the-follower/mp3s/) The Follower
+- [x] Listen: [_The Field's_](http://www.stereogum.com/1867810/stream-the-field-the-follower/mp3s/) The Follower
 - [ ] Listen: [_Frankie Cosmos'_](http://blog.bandcamp.com/2016/03/29/frankie-cosmos-premieres-next-thing-talks-songwriting-with-ezra-furman/) Next Thing
-- [ ] Listen: [_Japanese Breakfast's_](http://www.stereogum.com/1867591/stream-japanese-breakfast-psychopomp/mp3s/) Psychopomp
-- [ ] Listen: [_Com Truise's_](http://nerdist.com/com-truises-silicon-tare-ep-is-a-galactic-adventure-premiere/) Silicon Tare
-- [ ] Listen: [_Woods'_](http://www.avclub.com/article/listen-woods-city-sun-eater-river-light-full-right-234549) City Sun Eater In The River Of Light
+- [x] Listen: [_Japanese Breakfast's_](http://www.stereogum.com/1867591/stream-japanese-breakfast-psychopomp/mp3s/) Psychopomp
+- [x] Listen: [_Com Truise's_](http://nerdist.com/com-truises-silicon-tare-ep-is-a-galactic-adventure-premiere/) Silicon Tare
+- [x] Listen: [_Woods'_](http://www.avclub.com/article/listen-woods-city-sun-eater-river-light-full-right-234549) City Sun Eater In The River Of Light
 
 ## Future Projects + backburner! 
 
